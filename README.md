@@ -1,5 +1,5 @@
 # text-only-websites
-A list of text-based websites
+Fed up with the growing number of garbage "mobile optimized" websites which destroy your phone battery and are all but impossible to browse? Me too.
 
 ## News
 
