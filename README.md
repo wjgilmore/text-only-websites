@@ -4,6 +4,7 @@ Fed up with the growing number of garbage "mobile optimized" websites which dest
 ## News
 
 * [CNN Lite](http://lite.cnn.io/en)
+( [NPR](https://text.npr.org/)
 
 ## Weather
 
